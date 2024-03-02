@@ -519,7 +519,7 @@ form textarea {
   background-color: #434E5B;
   position: relative;
   overflow: hidden;
-  height: 500px;
+  height: 250px;
   color: #ffffff;
   align-items: center;
 }
@@ -534,7 +534,7 @@ form textarea {
 }
 
 .footer img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   margin-top: 20px; 
 }
